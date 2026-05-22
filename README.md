@@ -6,7 +6,7 @@
 <!-- DYNAMIC TYPING WIDGET -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=FF003C&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=INITIATING+VOUGHT+DOSSIER...;ML+AND+SYSTEMS+ENGINEERING;CUDA+AND+LLM+OPTIMIZATION;COMPUTER+VISION+AND+ROS2;EDGE+HARDWARE+DEVELOPMENT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF003C&background=00000000&center=true&vCenter=true&width=480&lines=INITIATING+VOUGHT+DOSSIER...;ML+AND+SYSTEMS+ENGINEERING;CUDA+AND+LLM+OPTIMIZATION;COMPUTER+VISION+AND+ROS2;EDGE+HARDWARE+DEVELOPMENT" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Status: Fucking Diabolical
 
 <p align="center">
   <!-- GitHub Streak Stats (The Boys Crimson & Gold Theme) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKaleeswarGK&amp;theme=dark&amp;hide_border=true&amp;background=0a0a0a&amp;ring=ffcc00&amp;fire=ff003c&amp;currStreakNum=ffffff&amp;sideLabels=ffffff" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKaleeswarGK&theme=dark&hide_border=true&background=0a0a0a&ring=ffcc00&fire=ff003c&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" height="180px" />
 </p>
 
 ---
@@ -44,13 +44,13 @@ Status: Fucking Diabolical
 
 <p align="center">
   <a href="mailto:adityakaleeswargk04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&amp;logo=gmail&amp;logoColor=ff003c" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=ff003c" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/aditya-kaleeswar">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ffcc00" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=ffcc00" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AdityaKaleeswarGK">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&amp;logo=github&amp;logoColor=ff003c" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ff003c" alt="GitHub" />
   </a>
 </p>
 
