@@ -17,6 +17,14 @@
   <img src="https://img.shields.io/github/stars/AdityaKaleeswarGK?style=flat-square&color=ff003c&label=POWER%20LEVEL" alt="Power Level" />
 </p>
 
+<!-- VOUGHT TACTICAL METRICS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaKaleeswarGK-repo&style=flat-square&label=REPO%20ACCESSES&color=ffcc00" alt="Repo Accesses" />
+  <img src="https://img.shields.io/github/stars/AdityaKaleeswarGK/AdityaKaleeswarGK?style=flat-square&color=ff003c&label=REPO%20STARS" alt="Repo Stars" />
+  <img src="https://img.shields.io/github/commit-activity/t/AdityaKaleeswarGK/AdityaKaleeswarGK?style=flat-square&color=ffcc00&label=TOTAL%20COMMITS" alt="Total Commits" />
+  <img src="https://img.shields.io/github/languages/top/AdityaKaleeswarGK/AdityaKaleeswarGK?style=flat-square&color=ff003c&label=DOMINANT%20LANGUAGE" alt="Dominant Language" />
+</p>
+
 ---
 
 ### 🖥️ Vought Dossier: Profile Status
