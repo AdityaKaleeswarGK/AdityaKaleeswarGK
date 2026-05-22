@@ -294,7 +294,7 @@
       <stop offset="50%" stop-color="#00f0ff" stop-opacity="1" />
       <stop offset="100%" stop-color="#ff0055" stop-opacity="0" />
     </linearGradient>
-    <text y="24" fill="#00f0ff" font-size="12" letter-spacing="2" opacity="0.9">LOADING SKILLS_INVENTORY...</text>
+    <text y="24" fill="#00f0ff" font-size="12" letter-spacing="2" opacity="0.9">ML &amp; SYSTEMS TELEMETRY</text>
   </g>
 
   <!-- Scanline Overlay Sweep -->

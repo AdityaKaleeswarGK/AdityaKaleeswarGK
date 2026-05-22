@@ -1,21 +1,12 @@
-# 🌐 Cyberpunk Animated Profile README
-
-Welcome to your new high-tech, animated GitHub profile template! Below is the markdown source you can copy and paste into your special profile repository.
-
----
-
-# Copy the Content Below This Line
-
-```markdown
-<!-- CYBERPUNK PROFILE BANNER -->
+<!-- SYSTEM DIAGNOSTICS BANNER -->
 <p align="center">
-  <img src="banner.svg" alt="Cyberpunk Animated Banner" width="100%" />
+  <img src="banner.svg" alt="Systems & ML Engineering Banner" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING WIDGET -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3500&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=450&lines=INITIATING+PROFILE+DIAGNOSTICS...;ACCESS+GRANTED+TO+DEVELOPER+CORE;BUILDING+CREATIVE+WEB+APPLICATIONS;SOLVING+COMPLEX+SYSTEMS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3500&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=480&lines=INITIATING+PROFILE+DIAGNOSTICS...;ML+AND+SYSTEMS+ENGINEERING;CUDA+AND+LLM+OPTIMIZATION;COMPUTER+VISION+AND+ROS2;EDGE+HARDWARE+DEVELOPMENT" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,10 +17,10 @@ Welcome to your new high-tech, animated GitHub profile template! Below is the ma
 ```yaml
 System:
   Status: ONLINE
-  Role: Full Stack Software Engineer & Architect
-  Focus: Custom SVG Animations, Web App Orchestration, & Fluid UIs
+  Role: Machine Learning & Systems Engineer
+  Focus: LLM Optimization, CUDA Kernels, Computer Vision, ROS2 & Hardware
   Location: Node_Earth (Localhost)
-  Motto: "Code is poetry, hacking is art."
+  Motto: "Compute is cheap, efficiency is art."
 ```
 
 ---
@@ -38,19 +29,19 @@ System:
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- Backend / DB -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <!-- Frameworks / Systems -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314F?style=for-the-badge&logo=ros&logoColor=white" />
+  <!-- Infrastructure / Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <!-- Hardware -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
 ---
@@ -72,36 +63,19 @@ System:
 
 ---
 
-### 📈 Current Node Activity
+### 📈 Current Node Allocation
 
 ```text
-[||||||||||||||||||||||||||||||] 100% - Coffee Intake
-[||||||||||||||||||||||........]  75% - Node.js/TypeScript Development
-[||||||||||||||................]  50% - SVG animations & UI tinkering
-[||||..........................]  15% - Sleep & Recharging
+[||||||||||||||||||||||||||||||] 100% - PyTorch & ML Inference
+[|||||||||||||||||||||||||.....]  80% - C++ / CUDA & Hardware (ESP32/Arduino)
+[||||||||||||||||||||..........]  65% - ROS2 & Autonomous Robotics Navigation
+[||||||||......................]  25% - Coffee & Sleep Recharging
 ```
 
-* 🚀 Currently working on: High-performance canvas overlays
-* 🎯 Focus for 2026: Distributed systems and advanced AI agent integrations
-* 👾 Fun Fact: I count in binary when I can't fall asleep
+* 🚀 Currently working on: High-performance CUDA kernels for LLM token inference acceleration.
+* 🎯 Focus for 2026: End-to-end robotics navigation, CV pipeline optimization, and edge intelligence.
+* 👾 Fun Fact: I haven't touched a line of JavaScript or TypeScript in over two years.
 
 ```text
 CONNECT CLOSED.
 ```
-```
-
----
-
-## 🛠️ Instructions to Set Up on GitHub
-
-1. **Customize the Username:**
-   * In the markdown content above, replace all instances of `YOUR_USERNAME` with your actual GitHub username.
-2. **Customize the Banner Name:**
-   * Open `banner.svg` in any text editor.
-   * Search for `CYBERPUNK_USER` (located around line 208).
-   * Replace it with your own name or GitHub handle (e.g. `ADITYA_GK` or `GHOST_IN_THE_SHELL`).
-3. **Commit the Files to Your Profile Repository:**
-   * In your special GitHub username repository (e.g. `github.com/your-username/your-username`):
-   * Upload `banner.svg` directly to the root of the repository.
-   * Paste the copied markdown content above into your `README.md` file.
-   * Save and commit the changes!
