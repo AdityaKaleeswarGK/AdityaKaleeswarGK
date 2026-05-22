@@ -10,6 +10,13 @@
   </a>
 </p>
 
+<!-- VOUGHT STRATEGIC METRICS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdityaKaleeswarGK&style=flat-square&label=DOSSIER%20ACCESSES&color=ff003c" alt="Dossier Accesses" />
+  <img src="https://img.shields.io/github/followers/AdityaKaleeswarGK?style=flat-square&color=ffcc00&label=SUPES%20TRACKING" alt="Supes Tracking" />
+  <img src="https://img.shields.io/github/stars/AdityaKaleeswarGK?style=flat-square&color=ff003c&label=POWER%20LEVEL" alt="Power Level" />
+</p>
+
 ---
 
 ### 🖥️ Vought Dossier: Profile Status
