@@ -2,22 +2,22 @@
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080711" />
-      <stop offset="50%" stop-color="#0b0e14" />
-      <stop offset="100%" stop-color="#120822" />
+      <stop offset="0%" stop-color="#050505" />
+      <stop offset="50%" stop-color="#0a0a0a" />
+      <stop offset="100%" stop-color="#150508" />
     </linearGradient>
 
-    <!-- Neon Glow Filters -->
-    <filter id="glowCyan" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
+    <!-- Crimson Glow Filters -->
+    <filter id="glowCrimson" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
 
-    <filter id="glowMagenta" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
+    <filter id="glowGold" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
@@ -26,156 +26,139 @@
 
     <!-- Grid Horizontal Lines Gradient (Fade out at top) -->
     <linearGradient id="gridFade" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
-      <stop offset="40%" stop-color="#00f0ff" stop-opacity="0.1" />
-      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.6" />
+      <stop offset="0%" stop-color="#ff003c" stop-opacity="0" />
+      <stop offset="40%" stop-color="#ff003c" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#ff003c" stop-opacity="0.6" />
     </linearGradient>
 
     <!-- Grid Vertical Lines Gradient -->
     <linearGradient id="gridVertFade" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ff0055" stop-opacity="0" />
-      <stop offset="100%" stop-color="#ff0055" stop-opacity="0.4" />
+      <stop offset="0%" stop-color="#ffcc00" stop-opacity="0" />
+      <stop offset="100%" stop-color="#ffcc00" stop-opacity="0.3" />
     </linearGradient>
 
-    <!-- Circle Pulse Gradient -->
-    <radialGradient id="radialGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.5" />
-      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+    <!-- Laser Glow behind eyes -->
+    <radialGradient id="laserGlowBack" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff003c" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#ff003c" stop-opacity="0" />
     </radialGradient>
   </defs>
 
   <style>
     /* Global Styles */
     text {
-      font-family: 'Courier New', Courier, monospace, system-ui;
+      font-family: 'Impact', 'Courier New', Courier, monospace, system-ui;
       user-select: none;
     }
 
     /* Scanline Sweeper */
     .scanner {
-      animation: scanSweep 6s infinite linear;
-      opacity: 0.7;
+      animation: scanSweep 7s infinite linear;
+      opacity: 0.8;
     }
     @keyframes scanSweep {
       0% { transform: translateY(-50px); }
       100% { transform: translateY(390px); }
     }
 
-    /* Glitch Text Animations */
-    .glitch-cyan {
-      fill: #00f0ff;
-      animation: jitterCyan 4s infinite steps(2, start);
+    /* Chromatic Aberration Glitch Text for Username */
+    .glitch-gold {
+      fill: #ffcc00;
+      animation: jitterGold 3.5s infinite steps(2, start);
     }
-    .glitch-magenta {
-      fill: #ff0055;
-      animation: jitterMagenta 4s infinite steps(2, start);
+    .glitch-crimson {
+      fill: #ff003c;
+      animation: jitterCrimson 3.5s infinite steps(2, start);
     }
     .glitch-white {
       fill: #ffffff;
-      animation: jitterWhite 4s infinite steps(1, start);
+      animation: jitterWhite 3.5s infinite steps(1, start);
     }
 
-    @keyframes jitterCyan {
-      0%, 100% { transform: translate(0, 0); opacity: 0.9; }
-      19% { transform: translate(0, 0); }
-      20% { transform: translate(-3px, 1px); }
-      21.5% { transform: translate(2px, -1px); }
-      22% { transform: translate(0, 0); }
-      60% { transform: translate(0, 0); }
-      61% { transform: translate(-2px, -2px); }
-      62% { transform: translate(1px, 2px); }
-      63% { transform: translate(0, 0); }
+    @keyframes jitterGold {
+      0%, 100% { transform: translate(0, 0); opacity: 0.95; }
+      9% { transform: translate(0, 0); }
+      10% { transform: translate(-3px, 1px); }
+      11.5% { transform: translate(2px, -1px); }
+      12% { transform: translate(0, 0); }
+      70% { transform: translate(0, 0); }
+      71% { transform: translate(-2px, -2px); }
+      72% { transform: translate(2px, 1px); }
+      73% { transform: translate(0, 0); }
     }
 
-    @keyframes jitterMagenta {
-      0%, 100% { transform: translate(0, 0); opacity: 0.9; }
-      19% { transform: translate(0, 0); }
-      20% { transform: translate(3px, -1px); }
-      21.5% { transform: translate(-1px, 2px); }
-      22% { transform: translate(0, 0); }
-      60% { transform: translate(0, 0); }
-      61% { transform: translate(2px, 1px); }
-      62% { transform: translate(-2px, -1px); }
-      63% { transform: translate(0, 0); }
+    @keyframes jitterCrimson {
+      0%, 100% { transform: translate(0, 0); opacity: 0.95; }
+      9% { transform: translate(0, 0); }
+      10% { transform: translate(3px, -1px); }
+      11.5% { transform: translate(-1px, 2px); }
+      12% { transform: translate(0, 0); }
+      70% { transform: translate(0, 0); }
+      71% { transform: translate(2px, 2px); }
+      72% { transform: translate(-2px, -1px); }
+      73% { transform: translate(0, 0); }
     }
 
     @keyframes jitterWhite {
       0%, 100% { transform: translate(0, 0); }
-      19.5% { transform: translate(0, 0); }
-      20% { transform: translate(-1px, -1px); }
-      21% { transform: translate(1px, 1px); }
-      21.5% { transform: translate(0, 0); }
-      60.5% { transform: translate(0, 0); }
-      61% { transform: translate(1px, -1px); }
-      61.5% { transform: translate(-1px, 1px); }
-      62% { transform: translate(0, 0); }
+      9.5% { transform: translate(0, 0); }
+      10% { transform: translate(-1px, -1px); }
+      11% { transform: translate(1px, 1px); }
+      11.5% { transform: translate(0, 0); }
+      70.5% { transform: translate(0, 0); }
+      71% { transform: translate(1px, -1px); }
+      71.5% { transform: translate(-1px, 1px); }
+      72% { transform: translate(0, 0); }
     }
 
-    /* Grid Perspective and Animating Grid Lines */
+    /* Grid Perspective Scrolling */
     .grid-h-line {
       stroke: url(#gridFade);
       stroke-width: 1.5;
       transform-origin: 50% 160px;
-      animation: horizonScroll 3s infinite linear;
+      animation: horizonScroll 2.8s infinite linear;
     }
     
-    .grid-h-line:nth-child(2) { animation-delay: -0.6s; }
-    .grid-h-line:nth-child(3) { animation-delay: -1.2s; }
-    .grid-h-line:nth-child(4) { animation-delay: -1.8s; }
-    .grid-h-line:nth-child(5) { animation-delay: -2.4s; }
+    .grid-h-line:nth-child(2) { animation-delay: -0.56s; }
+    .grid-h-line:nth-child(3) { animation-delay: -1.12s; }
+    .grid-h-line:nth-child(4) { animation-delay: -1.68s; }
+    .grid-h-line:nth-child(5) { animation-delay: -2.24s; }
 
     @keyframes horizonScroll {
-      0% {
-        transform: translateY(0px) scaleY(0.1);
-        opacity: 0;
-      }
-      10% {
-        opacity: 0.3;
-      }
-      90% {
-        opacity: 0.9;
-      }
-      100% {
-        transform: translateY(180px) scaleY(1.8);
-        opacity: 0;
-      }
+      0% { transform: translateY(0px) scaleY(0.1); opacity: 0; }
+      10% { opacity: 0.3; }
+      90% { opacity: 0.9; }
+      100% { transform: translateY(180px) scaleY(1.8); opacity: 0; }
     }
 
-    /* Pulse effects for Nodes */
-    .pulse-node {
-      animation: pulseGlow 2s infinite ease-in-out;
+    /* Laser Eyes Pulsing Animation */
+    .laser-eye {
+      fill: #ff003c;
+      animation: eyePulse 1.8s infinite ease-in-out;
     }
-    .pulse-node-delayed {
-      animation: pulseGlow 2s infinite ease-in-out 1s;
-    }
-    @keyframes pulseGlow {
-      0%, 100% { r: 3px; opacity: 0.4; }
-      50% { r: 5.5px; opacity: 1; filter: drop-shadow(0 0 4px #00f0ff); }
+    .laser-beam {
+      stroke: #ff003c;
+      stroke-linecap: round;
+      animation: beamPulse 1.8s infinite ease-in-out;
     }
 
-    /* Terminal Cursor blinking */
-    .cursor {
-      animation: blink 1s infinite steps(2, start);
+    @keyframes eyePulse {
+      0%, 100% { r: 3px; opacity: 0.6; filter: drop-shadow(0 0 2px #ff003c); }
+      50% { r: 6px; opacity: 1; filter: drop-shadow(0 0 10px #ff003c); }
     }
-    @keyframes blink {
+
+    @keyframes beamPulse {
+      0%, 100% { stroke-width: 1.5px; opacity: 0.3; filter: drop-shadow(0 0 2px #ff003c); }
+      50% { stroke-width: 4px; opacity: 0.9; filter: drop-shadow(0 0 8px #ff003c); }
+    }
+
+    /* Blinking indicator */
+    .blink {
+      animation: indicatorBlink 1.2s infinite steps(2, start);
+    }
+    @keyframes indicatorBlink {
       0%, 100% { opacity: 0; }
       50% { opacity: 1; }
-    }
-
-    /* Sine wave moving path */
-    .wave-path {
-      stroke: #ff0055;
-      stroke-width: 1.5;
-      fill: none;
-      stroke-dasharray: 800;
-      stroke-dashoffset: 800;
-      animation: drawWave 8s infinite linear;
-      opacity: 0.5;
-    }
-    @keyframes drawWave {
-      0% { stroke-dashoffset: 800; }
-      50% { stroke-dashoffset: 0; }
-      100% { stroke-dashoffset: -800; }
     }
   </style>
 
@@ -213,101 +196,93 @@
       <line x1="0" y1="160" x2="1000" y2="160" class="grid-h-line" />
       <line x1="0" y1="160" x2="1000" y2="160" class="grid-h-line" />
     </g>
-    
-    <!-- Cyberpunk Sun Glow on the horizon -->
-    <circle cx="500" cy="160" r="80" fill="url(#radialGlow)" opacity="0.8" />
   </g>
 
-  <!-- Side framing layout lines -->
-  <g stroke="#ab00ff" stroke-width="1" opacity="0.3">
-    <!-- Top framing -->
+  <!-- Side framing layout lines (Vought HUD Style) -->
+  <g stroke="#ff003c" stroke-width="1.2" opacity="0.35">
     <line x1="20" y1="20" x2="980" y2="20" />
-    <!-- Bottom framing -->
     <line x1="20" y1="320" x2="980" y2="320" />
-    <!-- Side bounds -->
     <line x1="20" y1="20" x2="20" y2="320" />
     <line x1="980" y1="20" x2="980" y2="320" />
   </g>
 
-  <!-- Tech corner brackets -->
-  <path d="M 40,20 L 20,20 L 20,40" stroke="#00f0ff" stroke-width="3" fill="none" filter="url(#glowCyan)" />
-  <path d="M 960,20 L 980,20 L 980,40" stroke="#00f0ff" stroke-width="3" fill="none" filter="url(#glowCyan)" />
-  <path d="M 20,300 L 20,320 L 40,320" stroke="#ff0055" stroke-width="3" fill="none" filter="url(#glowMagenta)" />
-  <path d="M 980,300 L 980,320 L 960,320" stroke="#ff0055" stroke-width="3" fill="none" filter="url(#glowMagenta)" />
+  <!-- Tech corner brackets in Gold -->
+  <path d="M 40,20 L 20,20 L 20,40" stroke="#ffcc00" stroke-width="3.5" fill="none" filter="url(#glowGold)" />
+  <path d="M 960,20 L 980,20 L 980,40" stroke="#ffcc00" stroke-width="3.5" fill="none" filter="url(#glowGold)" />
+  <path d="M 20,300 L 20,320 L 40,320" stroke="#ff003c" stroke-width="3.5" fill="none" />
+  <path d="M 980,300 L 980,320 L 960,320" stroke="#ff003c" stroke-width="3.5" fill="none" />
 
-  <!-- Left Side: Interactive Neural Network Visuals -->
-  <g stroke="#00f0ff" stroke-width="0.7" opacity="0.4">
-    <!-- Web connections -->
-    <line x1="50" y1="50" x2="90" y2="80" />
-    <line x1="90" y1="80" x2="130" y2="60" />
-    <line x1="130" y1="60" x2="100" y2="120" />
-    <line x1="100" y1="120" x2="50" y2="100" />
-    <line x1="50" y1="100" x2="50" y2="50" />
-    <line x1="90" y1="80" x2="100" y2="120" />
-    <line x1="50" y1="50" x2="100" y2="120" />
-
-    <!-- Pulse circles -->
-    <circle cx="50" cy="50" r="4" class="pulse-node" fill="#00f0ff" />
-    <circle cx="90" cy="80" r="3" class="pulse-node-delayed" fill="#ff0055" />
-    <circle cx="130" cy="60" r="4.5" class="pulse-node" fill="#00f0ff" />
-    <circle cx="100" cy="120" r="3.5" class="pulse-node-delayed" fill="#00f0ff" />
-    <circle cx="50" cy="100" r="3" class="pulse-node" fill="#ff0055" />
-  </g>
-
-  <!-- Right Side: Animated Code / Signal Wave -->
-  <g transform="translate(820, 45)">
-    <!-- Sine wave visualization -->
-    <rect x="-10" y="-10" width="150" height="90" fill="#0e0a1b" rx="5" stroke="#ab00ff" stroke-width="1" opacity="0.4" />
-    <!-- Grid pattern inside the signal box -->
-    <pattern id="sigGrid" width="10" height="10" patternUnits="userSpaceOnUse">
-      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#241a42" stroke-width="0.5" />
-    </pattern>
-    <rect x="-10" y="-10" width="150" height="90" fill="url(#sigGrid)" />
+  <!-- Left Side: Vought Database & Compound V Interface -->
+  <g transform="translate(35, 40)">
+    <!-- Vought Style HUD grid -->
+    <rect x="0" y="0" width="160" height="90" fill="#0f0205" rx="4" stroke="#ff003c" stroke-width="1.2" opacity="0.4" />
     
-    <!-- Moving wave path -->
-    <path class="wave-path" d="M 0,35 Q 20,5 40,35 T 80,35 T 120,35" />
-    <path class="wave-path" d="M 0,35 Q 20,65 40,35 T 80,35 T 120,35" style="animation-delay: -4s; stroke: #00f0ff;" />
+    <text x="10" y="20" fill="#ffcc00" font-size="10" font-weight="bold" letter-spacing="1">VOUGHT CLASSIFIED</text>
+    <text x="10" y="38" fill="#ffffff" font-size="9" font-family="Courier New" opacity="0.7">TARGET: HOMELANDER</text>
+    <text x="10" y="52" fill="#ffffff" font-size="9" font-family="Courier New" opacity="0.7">LEVEL: SUPREME</text>
+    <text x="10" y="66" fill="#ff003c" font-size="9" font-family="Courier New" font-weight="bold" class="blink">WARNING: UNSTABLE</text>
 
-    <text x="5" y="12" fill="#00f0ff" font-size="10" font-weight="bold" letter-spacing="1">SIGNAL RX: 98%</text>
-    <circle cx="115" cy="8" r="3" fill="#39ff14" class="cursor" />
+    <!-- Compound V progress bar simulation -->
+    <text x="10" y="82" fill="#00f0ff" font-size="8" font-family="Courier New" opacity="0.8">COMPOUND V: 99.8%</text>
+    <rect x="98" y="76" width="50" height="5" fill="#150005" rx="1.5" />
+    <rect x="98" y="76" width="45" height="5" fill="#00f0ff" rx="1.5" />
   </g>
 
-  <!-- Center: Glitching Cyberpunk Title -->
-  <g transform="translate(500, 100)" text-anchor="middle">
-    <!-- Subtitle -->
-    <text y="-25" fill="#ab00ff" font-size="14" font-weight="bold" letter-spacing="4" opacity="0.8">SYSTEM STATUS: ACTIVE</text>
+  <!-- Right Side: Glowing Laser Eyes (Homelander Schematic) -->
+  <g transform="translate(815, 30)">
+    <!-- Glowing background aura -->
+    <circle cx="75" cy="55" r="55" fill="url(#laserGlowBack)" />
     
-    <!-- Glitched Main Title (3 layers for chromatic shift) -->
-    <text y="15" font-size="38" font-weight="900" letter-spacing="6" class="glitch-cyan" filter="url(#glowCyan)">AdityaKaleeswarGK</text>
-    <text y="15" font-size="38" font-weight="900" letter-spacing="6" class="glitch-magenta" filter="url(#glowMagenta)">AdityaKaleeswarGK</text>
-    <text y="15" font-size="38" font-weight="900" letter-spacing="6" class="glitch-white">AdityaKaleeswarGK</text>
+    <!-- Silhouette Head Grid Box -->
+    <rect x="0" y="0" width="150" height="110" fill="#0b0204" rx="4" stroke="#ff003c" stroke-width="1" opacity="0.3" />
+    
+    <!-- Face Schematic Outline -->
+    <path d="M 45,35 C 55,20 95,20 105,35 C 110,50 110,85 75,100 C 40,85 40,50 45,35 Z" fill="none" stroke="#ff003c" stroke-width="0.8" stroke-dasharray="3,3" opacity="0.5" />
 
-    <!-- Typing cursor indicator -->
-    <text x="240" y="13" fill="#00f0ff" font-size="32" class="cursor">_</text>
+    <!-- Pulsing Laser Eyes -->
+    <circle cx="60" cy="45" r="4.5" class="laser-eye" />
+    <circle cx="90" cy="45" r="4.5" class="laser-eye" />
+
+    <!-- Laser Beams Firing Outward -->
+    <line x1="60" y1="45" x2="-250" y2="70" class="laser-beam" />
+    <line x1="90" y1="45" x2="-250" y2="70" class="laser-beam" />
+
+    <text x="10" y="15" fill="#ff003c" font-size="10" font-weight="bold" letter-spacing="1">LASER INITIATED</text>
   </g>
 
-  <!-- Sub-bar Interface Text (Bottom Half) -->
-  <g transform="translate(500, 150)" text-anchor="middle">
+  <!-- Center: Glitching Identity Header -->
+  <g transform="translate(500, 105)" text-anchor="middle">
+    <!-- Vought Network Clearances -->
+    <text y="-25" fill="#ffcc00" font-size="14" font-weight="bold" letter-spacing="4" filter="url(#glowGold)">VOUGHT DATABASE // SECURE ACCESS</text>
+    
+    <!-- Username in Bold Impact Glitch -->
+    <text y="20" font-size="44" font-weight="900" letter-spacing="5" class="glitch-crimson" filter="url(#glowCrimson)">AdityaKaleeswarGK</text>
+    <text y="20" font-size="44" font-weight="900" letter-spacing="5" class="glitch-gold" filter="url(#glowGold)">AdityaKaleeswarGK</text>
+    <text y="20" font-size="44" font-weight="900" letter-spacing="5" class="glitch-white">AdityaKaleeswarGK</text>
+  </g>
+
+  <!-- Sub-bar Status: Diabolical -->
+  <g transform="translate(500, 160)" text-anchor="middle">
     <rect x="-180" y="5" width="360" height="2" fill="url(#lineGrad)" />
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff0055" stop-opacity="0" />
-      <stop offset="50%" stop-color="#00f0ff" stop-opacity="1" />
-      <stop offset="100%" stop-color="#ff0055" stop-opacity="0" />
+      <stop offset="0%" stop-color="#ff003c" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffcc00" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ff003c" stop-opacity="0" />
     </linearGradient>
-    <text y="24" fill="#00f0ff" font-size="12" letter-spacing="2" opacity="0.9">ML, ROBOTICS &amp; SYSTEMS</text>
+    <text y="24" fill="#ff003c" font-size="13" font-weight="bold" letter-spacing="3" opacity="0.95" filter="url(#glowCrimson)">STATUS: FUCKING DIABOLICAL</text>
   </g>
 
   <!-- Scanline Overlay Sweep -->
   <g class="scanner">
-    <rect x="20" width="960" height="3" fill="#00f0ff" opacity="0.3" filter="url(#glowCyan)" />
+    <rect x="20" width="960" height="3" fill="#ff003c" opacity="0.3" filter="url(#glowCrimson)" />
     <rect x="20" width="960" height="30" fill="url(#scanGrad)" opacity="0.08" />
     <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#00f0ff" />
-      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+      <stop offset="0%" stop-color="#ff003c" />
+      <stop offset="100%" stop-color="#ff003c" stop-opacity="0" />
     </linearGradient>
   </g>
 
-  <!-- Realtime Bitstream Data details (bottom left / right corners) -->
-  <text x="35" y="305" fill="#ff0055" font-size="9" opacity="0.6" letter-spacing="1">NODE: VIT_VELLORE // LOC: INDIA</text>
-  <text x="800" y="305" fill="#00f0ff" font-size="9" opacity="0.6" letter-spacing="1">CORE: CUDA_12.x // ARCH: ORIN_NANO</text>
+  <!-- Corner Metrics -->
+  <text x="35" y="305" fill="#ffcc00" font-size="9" opacity="0.7" letter-spacing="1">REGISTRY: COMP-V_12</text>
+  <text x="800" y="305" fill="#ff003c" font-size="9" opacity="0.7" letter-spacing="1">SECTOR: DIABOLICAL_CORE</text>
 </svg>
