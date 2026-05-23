@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=42&color=FFCB05&center=true&vCenter=true&width=900&height=90&lines=ADITYA+KALEESWAR&duration=99999999&pause=99999999"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=2500&pause=999999&color=FFCB05&center=true&vCenter=true&width=900&height=70&lines=ADITYA+KALEESWAR"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=3B4CCA&center=true&vCenter=true&width=900&height=30&lines=%E2%97%86+AI+TRAINER+%E2%97%86+LV.99+%E2%97%86+TYPE%3A+ENGINEER+%2F+RESEARCHER+%E2%97%86&duration=99999999&pause=99999999"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=999999&color=3B4CCA&center=true&vCenter=true&width=900&height=28&lines=%E2%97%86+AI+TRAINER+%E2%97%86+LV.99+%E2%97%86+TYPE+%3A+ENGINEER+%2F+RESEARCHER+%E2%97%86"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=8&section=footer"/>
 
@@ -14,28 +14,22 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140" alt="Sleeping Snorlax"/></td>
-    <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani-shiny/snorlax.gif" width="140" alt="Shiny Snorlax (shades on)"/></td>
-    <td align="center"><img src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" width="140" alt="Eating Snorlax"/></td>
-    <td align="center"><img src="https://media1.tenor.com/m/DNlXq-CqcUMAAAAd/snorlax-snorlaks.gif" width="140" alt="Coding Snorlax"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/06%3A00%20AM-FFCB05?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/><br/><sub><b>💤 RESTING</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/08%3A00%20AM-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/><br/><sub><b>☕ 😎 CAFFEINATED</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/12%3A00%20PM-FFCB05?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/><br/><sub><b>🍔 REFUELING</b></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%88%9E%20%20--%20%20%E2%88%9E-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/><br/><sub><b>💻 BUILDING</b></sub></td>
+    <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
+    <td align="center"><img src="https://media.tenor.com/L8dp0-pg9g8AAAAM/snorlax-good-morning.gif" width="140"/></td>
+    <td align="center"><img src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" width="140"/></td>
+    <td align="center"><img src="https://media1.tenor.com/m/DNlXq-CqcUMAAAAd/snorlax-snorlaks.gif" width="140"/></td>
+    <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FFCB05&center=true&vCenter=true&pause=1500&width=820&height=50&lines=SNORLAX+mode+engaged...;A+wild+BUG+appeared!;Trainer+threw+a+PULL-REQUEST...;It's+super+effective!;Currently+catching%3A+CODEBASES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=1500&color=FFCB05&center=true&vCenter=true&width=820&height=46&lines=SNORLAX+mode+engaged...;A+wild+BUG+appeared!;Trainer+threw+a+PULL-REQUEST...;It's+super+effective!;Currently+catching+%3A+CODEBASES"/>
 
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/EMAIL-adityakaleeswargk04%40gmail.com-FFCB05?style=flat-square&logo=gmail&logoColor=FFCB05&labelColor=DC0A2D&color=1a1a2e)](mailto:adityakaleeswargk04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-aditya--kaleeswar-FFCB05?style=flat-square&logo=linkedin&logoColor=FFCB05&labelColor=3B4CCA&color=1a1a2e)](https://linkedin.com/in/aditya-kaleeswar)
-[![GitHub](https://img.shields.io/badge/GITHUB-AdityaKaleeswarGK-FFCB05?style=flat-square&logo=github&logoColor=FFCB05&labelColor=1a1a2e&color=1a1a2e)](https://github.com/AdityaKaleeswarGK)
 
 </div>
 
@@ -43,38 +37,7 @@
 
 <div align="center">
 
-```console
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║             ◆  T R A I N E R   C A R D  ◆                     ║
-║                                                               ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║   NAME/     ADITYA KALEESWAR GK                               ║
-║   ID No./   04                                                ║
-║   MONEY/    $9999                                             ║
-║   TIME/     ∞ : ∞∞                                            ║
-║                                                               ║
-║   PARTNER/  SNORLAX  ♥ ♥ ♥ ♥ ♥ ♥                              ║
-║                                                               ║
-║   POKéDEX  ──  4 ENTRIES SEEN                                 ║
-║    ▸ alpha-stack     LV.99    TYPE / AI                       ║
-║    ▸ DGAT            LV.95    TYPE / TOOL                     ║
-║    ▸ Hazmap          LV.88    TYPE / ROBOT                    ║
-║    ▸ ECC-pipeline    LV.92    TYPE / ML                       ║
-║                                                               ║
-║   BADGES/   ⬢  ⬢  ⬢  ⬢  ⬡  ⬡  ⬡  ⬡                            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%E2%97%86%20T%20E%20C%20H%20%20%20S%20T%20A%20C%20K%20%E2%97%86-FFCB05?style=for-the-badge&logoColor=3B4CCA&labelColor=DC0A2D&color=DC0A2D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=999999&color=FFCB05&center=true&vCenter=true&width=700&height=50&lines=%E2%96%B6+TECH+STACK"/>
 
 </div>
 
@@ -83,60 +46,60 @@
 <table>
   <tr>
     <td align="right">
-      <img src="https://img.shields.io/badge/AI%20%26%20LLMs-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
+      <img src="https://img.shields.io/badge/AI%20%26%20LLMs-DC0A2D?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logo=langchain&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/vLLM-1a1a2e?style=for-the-badge&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/MCP-1a1a2e?style=for-the-badge&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/Gemini-1a1a2e?style=for-the-badge&logo=google&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logo=langchain&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/vLLM-1a1a2e?style=flat-square&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/MCP-1a1a2e?style=flat-square&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Gemini-1a1a2e?style=flat-square&logo=google&logoColor=FFCB05"/>
     </td>
   </tr>
   <tr>
     <td align="right">
-      <img src="https://img.shields.io/badge/Robotics%20%26%20Vision-FFCB05?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/>
+      <img src="https://img.shields.io/badge/Robotics%20%26%20Vision-3B4CCA?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/ROS2-1a1a2e?style=for-the-badge&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/CUDA-1a1a2e?style=for-the-badge&logo=nvidia&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/YOLO-1a1a2e?style=for-the-badge&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/ROS2-1a1a2e?style=flat-square&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/CUDA-1a1a2e?style=flat-square&logo=nvidia&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/YOLO-1a1a2e?style=flat-square&logoColor=FFCB05"/>
     </td>
   </tr>
   <tr>
     <td align="right">
-      <img src="https://img.shields.io/badge/ML%20%26%20Research-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
+      <img src="https://img.shields.io/badge/ML%20%26%20Research-DC0A2D?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Jupyter-1a1a2e?style=flat-square&logo=jupyter&logoColor=FFCB05"/>
     </td>
   </tr>
   <tr>
     <td align="right">
-      <img src="https://img.shields.io/badge/Systems%20%26%20Web-FFCB05?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/>
+      <img src="https://img.shields.io/badge/Systems%20%26%20Web-3B4CCA?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Rust-1a1a2e?style=for-the-badge&logo=rust&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge&logo=go&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=FFCB05"/>
-      <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Rust-1a1a2e?style=flat-square&logo=rust&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Go-1a1a2e?style=flat-square&logo=go&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=FFCB05"/>
     </td>
   </tr>
   <tr>
     <td align="right">
-      <img src="https://img.shields.io/badge/Research%20Domains-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
+      <img src="https://img.shields.io/badge/Research%20Domains-DC0A2D?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Conformal%20Prediction-3B4CCA?style=for-the-badge&color=3B4CCA"/>
-      <img src="https://img.shields.io/badge/Physics--Informed%20NNs-3B4CCA?style=for-the-badge&color=3B4CCA"/>
-      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-DC0A2D?style=for-the-badge&color=DC0A2D"/>
-      <img src="https://img.shields.io/badge/Autonomous%20Navigation-DC0A2D?style=for-the-badge&color=DC0A2D"/>
+      <img src="https://img.shields.io/badge/Conformal%20Prediction-3B4CCA?style=flat-square&color=3B4CCA"/>
+      <img src="https://img.shields.io/badge/Physics--Informed%20NNs-3B4CCA?style=flat-square&color=3B4CCA"/>
+      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-DC0A2D?style=flat-square&color=DC0A2D"/>
+      <img src="https://img.shields.io/badge/Autonomous%20Navigation-DC0A2D?style=flat-square&color=DC0A2D"/>
     </td>
   </tr>
 </table>
@@ -147,7 +110,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%E2%97%86%20P%20O%20K%20%C3%89%20D%20E%20X%20%20%20S%20T%20A%20T%20S%20%E2%97%86-FFCB05?style=for-the-badge&labelColor=3B4CCA&color=3B4CCA"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=999999&color=FFCB05&center=true&vCenter=true&width=700&height=50&lines=%E2%96%B6+POK%C3%89DEX+STATS"/>
 
 </div>
 
@@ -167,10 +130,27 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=FFCB05&center=true&vCenter=true&pause=2000&width=820&height=40&lines=SNORLAX+used+REST.+It's+recovering+HP...;...but+the+agents+are+still+running." alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=2000&color=FFCB05&center=true&vCenter=true&width=820&height=38&lines=SNORLAX+used+REST.+It's+recovering+HP...;...but+the+agents+are+still+running."/>
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=8&section=footer"/>
+
+<br/>
+
+```
+                                z
+                                z
+                               z z
+                              z z z
+                             z z z z z
+                            z z z z z z z z
+                           z z z z z z z z z z z z z
+                          z z z z z z z z z z z z z z z z z z z z z
+                z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z
+z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z
+```
+
+<sub><i>Fibonacci sleep depth — totalling 143 z's, Snorlax's Pokédex No.</i></sub>
 
 </div>
