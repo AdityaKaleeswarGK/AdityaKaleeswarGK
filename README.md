@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:001a0d,65:00ff9f,100:00d4ff&height=240&section=header&text=Aditya%20Kaleeswar&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%20Trainer%20%E2%80%A2%20Pok%C3%A9dex%20Level%2099%20%E2%80%A2%20Type%3A%20Engineer%2FResearcher&descAlignY=60&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:3B4CCA,55:DC0A2D,85:FFCB05,100:1a1a2e&height=240&section=header&text=Aditya%20Kaleeswar&fontSize=60&fontColor=FFFFCC&fontAlignY=40&desc=AI%20TRAINER%20%E2%97%86%20POK%C3%89DEX%20Lv.99%20%E2%97%86%20TYPE%3A%20ENGINEER%2FRESEARCHER&descAlignY=60&descSize=15&animation=fadeIn"/>
 
 <br/>
 
@@ -8,13 +8,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FF9F&center=true&vCenter=true&random=false&width=720&height=55&lines=Snorlax+mode+engaged+%E2%80%94+but+the+code+never+sleeps;Wild+bug+appeared!+Throwing+a+pull+request...;It's+super+effective%3A+alpha-stack%2C+DGAT%2C+Hazmap;Type%3A+AI+%2F+Robotics+%2F+Research+%E2%80%94+Weakness%3A+bad+coffee;Currently+catching%3A+production+codebases" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=28&pause=1300&color=FFCB05&center=true&vCenter=true&random=false&width=720&height=50&lines=Snorlax+mode+engaged...;A+wild+BUG+appeared!;Trainer+threw+a+PULL-REQUEST...;It's+super+effective!;Currently+catching%3A+PRODUCTION+CODEBASES" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-adityakaleeswargk04%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff9f&labelColor=0d1117&color=0d1117)](mailto:adityakaleeswargk04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--kaleeswar-0d1117?style=flat-square&logo=linkedin&logoColor=00d4ff&labelColor=0d1117&color=0d1117)](https://linkedin.com/in/aditya-kaleeswar)
-[![GitHub](https://img.shields.io/badge/GitHub-AdityaKaleeswarGK-0d1117?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=0d1117&color=0d1117)](https://github.com/AdityaKaleeswarGK)
+[![Email](https://img.shields.io/badge/EMAIL-adityakaleeswargk04%40gmail.com-FFCB05?style=flat-square&logo=gmail&logoColor=FFCB05&labelColor=DC0A2D&color=1a1a2e)](mailto:adityakaleeswargk04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-aditya--kaleeswar-FFCB05?style=flat-square&logo=linkedin&logoColor=FFCB05&labelColor=3B4CCA&color=1a1a2e)](https://linkedin.com/in/aditya-kaleeswar)
+[![GitHub](https://img.shields.io/badge/GITHUB-AdityaKaleeswarGK-FFCB05?style=flat-square&logo=github&logoColor=FFCB05&labelColor=1a1a2e&color=1a1a2e)](https://github.com/AdityaKaleeswarGK)
 
 </div>
 
@@ -23,75 +23,99 @@
 <div align="center">
 
 ```console
-┌─────────────────────────────────────────────────────────────┐
-│  TRAINER CARD                                               │
-│                                                             │
-│  NAME:    Aditya Kaleeswar GK                               │
-│  LVL:     99                                                │
-│  HP:      ████████████████████  9999 / 9999                 │
-│  TYPE:    AI / Robotics / Research                          │
-│  ABILITY: Rest (recovers full HP after 8h of debugging)     │
-│  PARTNER: Snorlax — currently snoring beside the monitor    │
-│                                                             │
-│  MOVES LEARNED:  alpha-stack · DGAT · Hazmap · ECC-pipeline │
-└─────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║             ◆  T R A I N E R   C A R D  ◆                     ║
+║                                                               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║   NAME/     ADITYA KALEESWAR GK                               ║
+║   ID No./   04                                                ║
+║   MONEY/    $9999                                             ║
+║   TIME/     ∞ : ∞∞                                            ║
+║                                                               ║
+║   PARTNER/  SNORLAX  ♥ ♥ ♥ ♥ ♥ ♥                              ║
+║                                                               ║
+║   POKéDEX  ──  4 ENTRIES SEEN                                 ║
+║    ▸ alpha-stack     LV.99    TYPE / AI                       ║
+║    ▸ DGAT            LV.95    TYPE / TOOL                     ║
+║    ▸ Hazmap          LV.88    TYPE / ROBOT                    ║
+║    ▸ ECC-pipeline    LV.92    TYPE / ML                       ║
+║                                                               ║
+║   BADGES/   ⬢  ⬢  ⬢  ⬢  ⬡  ⬡  ⬡  ⬡                            ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## `$ cat ~/.tech_stack`
+<div align="center">
+
+<img src="https://img.shields.io/badge/%E2%97%86%20T%20E%20C%20H%20%20%20S%20T%20A%20C%20K%20%E2%97%86-FFCB05?style=for-the-badge&logoColor=3B4CCA&labelColor=DC0A2D&color=DC0A2D"/>
+
+</div>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="right"><b>AI Agents & LLMs</b></td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/AI%20%26%20LLMs-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
+    </td>
     <td>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9f"/>
-      <img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=00d4ff"/>
-      <img src="https://img.shields.io/badge/vLLM-0d1117?style=for-the-badge&logoColor=ff6e00"/>
-      <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=00ff9f"/>
-      <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285f4"/>
+      <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logo=langchain&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/vLLM-1a1a2e?style=for-the-badge&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/MCP-1a1a2e?style=for-the-badge&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Gemini-1a1a2e?style=for-the-badge&logo=google&logoColor=FFCB05"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Robotics & Vision</b></td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Robotics%20%26%20Vision-FFCB05?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/>
+    </td>
     <td>
-      <img src="https://img.shields.io/badge/ROS2-0d1117?style=for-the-badge&logoColor=00d4ff"/>
-      <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00d4ff"/>
-      <img src="https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=76b900"/>
-      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5c3ee8"/>
-      <img src="https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logoColor=ff4500"/>
+      <img src="https://img.shields.io/badge/ROS2-1a1a2e?style=for-the-badge&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/CUDA-1a1a2e?style=for-the-badge&logo=nvidia&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/YOLO-1a1a2e?style=for-the-badge&logoColor=FFCB05"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>ML & Research</b></td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/ML%20%26%20Research-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
+    </td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c"/>
-      <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f7931e"/>
-      <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4dabcf"/>
-      <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626"/>
+      <img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=FFCB05"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Systems & Web</b></td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Systems%20%26%20Web-FFCB05?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/>
+    </td>
     <td>
-      <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ff4500"/>
-      <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=007acc"/>
-      <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb"/>
-      <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed"/>
+      <img src="https://img.shields.io/badge/Rust-1a1a2e?style=for-the-badge&logo=rust&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge&logo=go&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=FFCB05"/>
+      <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=FFCB05"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Research Domains</b></td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Research%20Domains-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/>
+    </td>
     <td>
-      <img src="https://img.shields.io/badge/Conformal%20Prediction-003d1a?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Physics--Informed%20NNs-003d1a?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-001a3d?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Autonomous%20Navigation-1a1a00?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Conformal%20Prediction-3B4CCA?style=for-the-badge&color=3B4CCA"/>
+      <img src="https://img.shields.io/badge/Physics--Informed%20NNs-3B4CCA?style=for-the-badge&color=3B4CCA"/>
+      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-DC0A2D?style=for-the-badge&color=DC0A2D"/>
+      <img src="https://img.shields.io/badge/Autonomous%20Navigation-DC0A2D?style=for-the-badge&color=DC0A2D"/>
     </td>
   </tr>
 </table>
@@ -100,13 +124,17 @@
 
 ---
 
-## `$ pokédex --stats`
+<div align="center">
+
+<img src="https://img.shields.io/badge/%E2%97%86%20P%20O%20K%20%C3%89%20D%20E%20X%20%20%20S%20T%20A%20T%20S%20%E2%97%86-FFCB05?style=for-the-badge&labelColor=3B4CCA&color=3B4CCA"/>
+
+</div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AdityaKaleeswarGK&theme=dark&background=0d1117&border=00ff9f30&stroke=00ff9f&ring=00d4ff&fire=ff6e00&currStreakLabel=00ff9f&sideLabels=00d4ff&dates=8b949e&sideNums=00ff9f&currStreakNum=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=AdityaKaleeswarGK&background=0d1117&border=FFCB05&stroke=FFCB05&ring=DC0A2D&fire=DC0A2D&currStreakLabel=FFCB05&sideLabels=3B4CCA&dates=8b949e&sideNums=FFCB05&currStreakNum=FFCB05&hide_border=false"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKaleeswarGK&bg_color=0d1117&color=00ff9f&line=00d4ff&point=00ff9f&area=true&area_color=003d1a&hide_border=false&border_color=00ff9f30"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKaleeswarGK&bg_color=0d1117&color=FFCB05&line=DC0A2D&point=FFCB05&area=true&area_color=3B4CCA&hide_border=false&border_color=FFCB05&title_color=FFCB05"/>
 
 </div>
 
@@ -114,8 +142,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff9f,100:0d0221&height=140&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,15:FFCB05,45:DC0A2D,75:3B4CCA,100:1a1a2e&height=140&section=footer&animation=fadeIn"/>
 
-*`Snorlax used REST. It's recovering HP... but the agents are still running.`*
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=2000&color=FFCB05&center=true&vCenter=true&random=false&width=720&height=40&lines=Snorlax+used+REST.+It's+recovering+HP...;...but+the+agents+are+still+running." alt="footer"/>
 
 </div>
