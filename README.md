@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=00FF9F&center=true&vCenter=true&random=false&width=720&height=55&lines=Building+AI+agents+that+write+production+code;Robots+that+map+hazards+autonomously;ML+models+with+calibrated+uncertainty;Point+DGAT+at+a+codebase.+Get+a+dependency+graph.;ICML+2026+%E2%86%92+alpha-stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=00FF9F&center=true&vCenter=true&random=false&width=720&height=55&lines=Building+AI+agents+that+write+production+code;Robots+that+map+hazards+autonomously;ML+models+with+calibrated+uncertainty;Point+DGAT+at+a+codebase.+Get+a+dependency+graph." alt="Typing SVG" />
 
 <br/><br/>
 
