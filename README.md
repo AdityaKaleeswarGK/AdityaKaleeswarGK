@@ -1,6 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:3B4CCA,55:DC0A2D,85:FFCB05,100:1a1a2e&height=240&section=header&text=Aditya%20Kaleeswar&fontSize=60&fontColor=FFFFCC&fontAlignY=40&desc=AI%20TRAINER%20%E2%97%86%20POK%C3%89DEX%20Lv.99%20%E2%97%86%20TYPE%3A%20ENGINEER%2FRESEARCHER&descAlignY=60&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=8&section=header"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=42&color=FFCB05&center=true&vCenter=true&width=900&height=90&lines=ADITYA+KALEESWAR&duration=99999999&pause=99999999"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=3B4CCA&center=true&vCenter=true&width=900&height=30&lines=%E2%97%86+AI+TRAINER+%E2%97%86+LV.99+%E2%97%86+TYPE%3A+ENGINEER+%2F+RESEARCHER+%E2%97%86&duration=99999999&pause=99999999"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=8&section=footer"/>
 
 <br/>
 
@@ -21,7 +29,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=28&pause=1300&color=FFCB05&center=true&vCenter=true&random=false&width=720&height=50&lines=Snorlax+mode+engaged...;A+wild+BUG+appeared!;Trainer+threw+a+PULL-REQUEST...;It's+super+effective!;Currently+catching%3A+PRODUCTION+CODEBASES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FFCB05&center=true&vCenter=true&pause=1500&width=820&height=50&lines=SNORLAX+mode+engaged...;A+wild+BUG+appeared!;Trainer+threw+a+PULL-REQUEST...;It's+super+effective!;Currently+catching%3A+CODEBASES" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -155,8 +163,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,15:FFCB05,45:DC0A2D,75:3B4CCA,100:1a1a2e&height=140&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=8&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=2000&color=FFCB05&center=true&vCenter=true&random=false&width=720&height=40&lines=Snorlax+used+REST.+It's+recovering+HP...;...but+the+agents+are+still+running." alt="footer"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&color=FFCB05&center=true&vCenter=true&pause=2000&width=820&height=40&lines=SNORLAX+used+REST.+It's+recovering+HP...;...but+the+agents+are+still+running." alt="footer"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=8&section=footer"/>
 
 </div>
