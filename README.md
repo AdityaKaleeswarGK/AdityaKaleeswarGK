@@ -4,7 +4,20 @@
 
 <br/>
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" width="120" alt="Snorlax"/>
+<table>
+  <tr>
+    <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140" alt="Sleeping Snorlax"/></td>
+    <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani-shiny/snorlax.gif" width="140" alt="Shiny Snorlax (shades on)"/></td>
+    <td align="center"><img src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" width="140" alt="Eating Snorlax"/></td>
+    <td align="center"><img src="https://media1.tenor.com/m/DNlXq-CqcUMAAAAd/snorlax-snorlaks.gif" width="140" alt="Coding Snorlax"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/06%3A00%20AM-FFCB05?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/><br/><sub><b>💤 RESTING</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/08%3A00%20AM-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/><br/><sub><b>☕ 😎 CAFFEINATED</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/12%3A00%20PM-FFCB05?style=flat-square&labelColor=3B4CCA&color=3B4CCA"/><br/><sub><b>🍔 REFUELING</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/%E2%88%9E%20%20--%20%20%E2%88%9E-FFCB05?style=flat-square&labelColor=DC0A2D&color=DC0A2D"/><br/><sub><b>💻 BUILDING</b></sub></td>
+  </tr>
+</table>
 
 <br/>
 
