@@ -10,11 +10,11 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
+    <td align="center"><img src="https://media.tenor.com/2z3DeuMB0xIAAAAM/snorlax.gif" width="140"/></td>
     <td align="center"><img src="https://media.tenor.com/1OV-z036uOYAAAAM/snorlax-crawling.gif" width="140"/></td>
-    <td align="center"><img src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" width="140"/></td>
+    <td align="center"><img src="https://media.tenor.com/43HX4RcadNQAAAAM/pokemon-snorlax.gif" width="140"/></td>
     <td align="center"><img src="https://media1.tenor.com/m/DNlXq-CqcUMAAAAd/snorlax-snorlaks.gif" width="140"/></td>
-    <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
+    <td align="center"><img src="https://media.tenor.com/2z3DeuMB0xIAAAAM/snorlax.gif" width="140"/></td>
   </tr>
 </table>
 
