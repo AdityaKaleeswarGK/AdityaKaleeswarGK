@@ -1,32 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=8&section=header"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=22&section=header&text=%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92&fontColor=8B0A1F&fontSize=14&fontAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=2500&pause=999999&color=FFCB05&center=true&vCenter=true&width=900&height=70&lines=ADITYA+KALEESWAR"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=999999&color=3B4CCA&center=true&vCenter=true&width=900&height=28&lines=%E2%97%86+AI+TRAINER+%E2%97%86+LV.99+%E2%97%86+TYPE+%3A+ENGINEER+%2F+RESEARCHER+%E2%97%86"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=8&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=22&section=footer&text=%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92&fontColor=2A357A&fontSize=14&fontAlignY=58"/>
 
 <br/>
+
+<sub><b>I work on AI coding agents, autonomous robotics, and machine learning research for engineered materials.</b></sub>
+
+<br/><br/>
 
 <table>
   <tr>
     <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
-    <td align="center"><img src="https://media.tenor.com/L8dp0-pg9g8AAAAM/snorlax-good-morning.gif" width="140"/></td>
+    <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" width="140"/></td>
     <td align="center"><img src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" width="140"/></td>
     <td align="center"><img src="https://media1.tenor.com/m/DNlXq-CqcUMAAAAd/snorlax-snorlaks.gif" width="140"/></td>
     <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
   </tr>
 </table>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=1500&color=FFCB05&center=true&vCenter=true&width=820&height=46&lines=SNORLAX+mode+engaged...;A+wild+BUG+appeared!;Trainer+threw+a+PULL-REQUEST...;It's+super+effective!;Currently+catching+%3A+CODEBASES"/>
-
-<br/><br/>
 
 [![Email](https://img.shields.io/badge/EMAIL-adityakaleeswargk04%40gmail.com-FFCB05?style=flat-square&logo=gmail&logoColor=FFCB05&labelColor=DC0A2D&color=1a1a2e)](mailto:adityakaleeswargk04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-aditya--kaleeswar-FFCB05?style=flat-square&logo=linkedin&logoColor=FFCB05&labelColor=3B4CCA&color=1a1a2e)](https://linkedin.com/in/aditya-kaleeswar)
@@ -37,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=999999&color=FFCB05&center=true&vCenter=true&width=700&height=50&lines=%E2%96%B6+TECH+STACK"/>
+<img src="https://img.shields.io/badge/%E2%96%B6%20TECH%20STACK-FFCB05?style=for-the-badge&labelColor=DC0A2D&color=DC0A2D"/>
 
 </div>
 
@@ -110,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=999999&color=FFCB05&center=true&vCenter=true&width=700&height=50&lines=%E2%96%B6+POK%C3%89DEX+STATS"/>
+<img src="https://img.shields.io/badge/%E2%96%B6%20POK%C3%89DEX%20STATS-FFCB05?style=for-the-badge&labelColor=DC0A2D&color=DC0A2D"/>
 
 </div>
 
@@ -126,15 +122,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=8&section=header"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=22&section=header&text=%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92&fontColor=8B0A1F&fontSize=14&fontAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=2000&color=FFCB05&center=true&vCenter=true&width=820&height=38&lines=SNORLAX+used+REST.+It's+recovering+HP...;...but+the+agents+are+still+running."/>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=8&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=22&section=footer&text=%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92&fontColor=2A357A&fontSize=14&fontAlignY=58"/>
 
 <br/>
 
