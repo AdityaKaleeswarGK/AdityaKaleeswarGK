@@ -1,23 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=22&section=header&text=%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92&fontColor=8B0A1F&fontSize=14&fontAlignY=58"/>
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=1&pause=99999999&repeat=false&color=FFCB05&center=true&vCenter=true&width=900&height=70&lines=ADITYA+KALEESWAR"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=99999999&repeat=false&color=3B4CCA&center=true&vCenter=true&width=900&height=28&lines=%E2%97%86+AI+TRAINER+%E2%97%86+LV.99+%E2%97%86+TYPE+%3A+ENGINEER+%2F+RESEARCHER+%E2%97%86"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=22&section=footer&text=%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92&fontColor=2A357A&fontSize=14&fontAlignY=58"/>
-
-<br/>
-
-<sub><b>I work on AI coding agents, autonomous robotics, and machine learning research for engineered materials.</b></sub>
-
-<br/><br/>
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 
 <table>
   <tr>
     <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
-    <td align="center"><img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" width="140"/></td>
+    <td align="center"><img src="https://media.tenor.com/vs5vhfVBXxkAAAAM/snorlax-snorlax-dance.gif" width="140"/></td>
     <td align="center"><img src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" width="140"/></td>
     <td align="center"><img src="https://media1.tenor.com/m/DNlXq-CqcUMAAAAd/snorlax-snorlaks.gif" width="140"/></td>
     <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
@@ -124,27 +118,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DC0A2D&height=22&section=header&text=%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92&fontColor=8B0A1F&fontSize=14&fontAlignY=58"/>
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=99999999&repeat=false&color=FFCB05&center=true&vCenter=true&width=820&height=38&lines=SNORLAX+used+REST.+...but+the+agents+are+still+running."/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3B4CCA&height=22&section=footer&text=%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92%E2%96%93%E2%96%92&fontColor=2A357A&fontSize=14&fontAlignY=58"/>
-
-<br/>
-
-```
-                                z
-                                z
-                               z z
-                              z z z
-                             z z z z z
-                            z z z z z z z z
-                           z z z z z z z z z z z z z
-                          z z z z z z z z z z z z z z z z z z z z z
-                z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z
-z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z
-```
-
-<sub><i>Fibonacci sleep depth — totalling 143 z's, Snorlax's Pokédex No.</i></sub>
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 
 </div>
