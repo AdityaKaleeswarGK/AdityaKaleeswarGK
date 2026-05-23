@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
-    <td align="center"><img src="https://media.tenor.com/vs5vhfVBXxkAAAAM/snorlax-snorlax-dance.gif" width="140"/></td>
+    <td align="center"><img src="https://media.tenor.com/1OV-z036uOYAAAAM/snorlax-crawling.gif" width="140"/></td>
     <td align="center"><img src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" width="140"/></td>
     <td align="center"><img src="https://media1.tenor.com/m/DNlXq-CqcUMAAAAd/snorlax-snorlaks.gif" width="140"/></td>
     <td align="center"><img src="https://media.tenor.com/3Qj2zvHVl40AAAAj/snorlax-sleeping.gif" width="140"/></td>
@@ -100,15 +100,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%E2%96%B6%20POK%C3%89DEX%20STATS-9BBC0F?style=for-the-badge&labelColor=0F380F&color=0F380F"/>
+<img src="https://img.shields.io/badge/%E2%96%B6%20POK%C3%89DEX%20STATS-FFCB05?style=for-the-badge&labelColor=DC0A2D&color=DC0A2D"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AdityaKaleeswarGK&background=0F380F&border=9BBC0F&stroke=9BBC0F&ring=9BBC0F&fire=9BBC0F&currStreakLabel=9BBC0F&sideLabels=8BAC0F&dates=306230&sideNums=9BBC0F&currStreakNum=9BBC0F&hide_border=false"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKaleeswarGK&bg_color=0F380F&color=9BBC0F&line=9BBC0F&point=9BBC0F&area=true&area_color=306230&hide_border=false&border_color=9BBC0F&title_color=9BBC0F&radius=0&custom_title=Aditya's%20Game%20Boy%20Contribution%20Log"/>
+<img src="https://streak-stats.demolab.com?user=AdityaKaleeswarGK&background=0d1117&border=FFCB05&stroke=FFCB05&ring=DC0A2D&fire=DC0A2D&currStreakLabel=FFCB05&sideLabels=3B4CCA&dates=8b949e&sideNums=FFCB05&currStreakNum=FFCB05&hide_border=false"/>
 
 </div>
 
