@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:001a0d,65:00ff9f,100:00d4ff&height=240&section=header&text=Aditya%20Kaleeswar&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%20Agents%20%E2%80%A2%20Robotics%20%E2%80%A2%20ML%20Research%20%E2%80%A2%20Systems%20Engineering&descAlignY=60&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:001a0d,65:00ff9f,100:00d4ff&height=240&section=header&text=Aditya%20Kaleeswar&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%20Trainer%20%E2%80%A2%20Pok%C3%A9dex%20Level%2099%20%E2%80%A2%20Type%3A%20Engineer%2FResearcher&descAlignY=60&descSize=16&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=00FF9F&center=true&vCenter=true&random=false&width=720&height=55&lines=Building+AI+agents+that+write+production+code;Robots+that+map+hazards+autonomously;ML+models+with+calibrated+uncertainty;Point+DGAT+at+a+codebase.+Get+a+dependency+graph." alt="Typing SVG" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" width="120" alt="Snorlax"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FF9F&center=true&vCenter=true&random=false&width=720&height=55&lines=Snorlax+mode+engaged+%E2%80%94+but+the+code+never+sleeps;Wild+bug+appeared!+Throwing+a+pull+request...;It's+super+effective%3A+alpha-stack%2C+DGAT%2C+Hazmap;Type%3A+AI+%2F+Robotics+%2F+Research+%E2%80%94+Weakness%3A+bad+coffee;Currently+catching%3A+production+codebases" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,47 +23,19 @@
 <div align="center">
 
 ```console
-$ whoami
-
-  Aditya Kaleeswar GK
-
-  I build tools that write code, understand code, and navigate
-  the physical world — then publish research about how.
-
-  alpha-stack  →  multi-agent AI that generates production codebases
-                  and self-heals until they compile and test.
-                  40 challenges across CUDA/Go/Rust/TS. ICML 2026.
-
-  DGAT         →  point it at any codebase, get a fully LLM-annotated
-                  dependency graph. tree-sitter + vLLM + WebGL + MCP.
-
-  ECC-pipeline →  Mondrian conformal quantile regression for materials
-                  science. 620 specimens. Calibrated 80% intervals.
-
-  Hazmap       →  ROS2 robot that maps hazardous environments before
-                  humans enter them. CO / CO2 / CH4 / O2.
-
-  Currently: making code write itself so we can think bigger.
+┌─────────────────────────────────────────────────────────────┐
+│  TRAINER CARD                                               │
+│                                                             │
+│  NAME:    Aditya Kaleeswar GK                               │
+│  LVL:     99                                                │
+│  HP:      ████████████████████  9999 / 9999                 │
+│  TYPE:    AI / Robotics / Research                          │
+│  ABILITY: Rest (recovers full HP after 8h of debugging)     │
+│  PARTNER: Snorlax — currently snoring beside the monitor    │
+│                                                             │
+│  MOVES LEARNED:  alpha-stack · DGAT · Hazmap · ECC-pipeline │
+└─────────────────────────────────────────────────────────────┘
 ```
-
-</div>
-
----
-
-## `$ ls ~/projects/ --sort=impact`
-
-<div align="center">
-
-| Project | Stack | What it does |
-|:--------|:------|:-------------|
-| [**alpha-stack**](https://github.com/HyperKuvid-Labs/alpha-stack) | `Python` `Go` `Rust` `TypeScript` `CUDA` | Multi-agent AI that converts natural language into production-ready multi-file codebases. Validates in isolated microVMs, self-heals dependency and build failures. 40 challenges. **ICML 2026.** |
-| [**DGAT**](https://github.com/HyperKuvid-Labs/DGAT) | `Python` `C++` `React` `tree-sitter` `vLLM` | Point it at any codebase and get a fully LLM-annotated dependency graph with interactive WebGL UI and MCP server integration. Multi-language. Incremental. Instant. |
-| [**Hazmap**](https://github.com/AdityaKaleeswarGK/Hazmap) | `Python` `ROS2` `C++` `YOLO` | Autonomous hazard mapping on ROS 2 Humble — coverage path planning, CO/CO₂/Methane/O₂ sensors, YOLO detection, all in unknown environments |
-| [**ECC-pipeline**](https://github.com/AdityaKaleeswarGK/ECC-pipeline) | `Python` `CatBoost` `Mondrian CQR` | Tensile strength and ductility prediction for Engineered Cementitious Composites — 37 features, calibrated 80% prediction intervals |
-| [**obstacle_pit_avoidance**](https://github.com/AdityaKaleeswarGK/obstacle_pit_avoidance_using-pointcloud-process) | `C++` `Python` `PointCloud` | Autonomous robot navigation with 3D pointcloud-based obstacle and pit detection |
-| [**stress-calc-PINN**](https://github.com/AdityaKaleeswarGK/stress-calc-PINN) | `Python` `PyTorch` | Physics-Informed Neural Networks for structural stress — PDEs baked into the loss function |
-| [**NL → DataViz**](https://github.com/AdityaKaleeswarGK/Natural_Language_to_data_visualization) | `Python` `LLM` | Describe a chart in plain English, get one |
-| [**meeting_summary**](https://github.com/AdityaKaleeswarGK/meeting_summary) | `Python` `Transformers` | Fine-tuned model for meeting transcript summarization |
 
 </div>
 
@@ -69,44 +45,62 @@ $ whoami
 
 <div align="center">
 
-**AI Agents & LLMs**
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9f)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=00d4ff)
-![vLLM](https://img.shields.io/badge/vLLM-0d1117?style=for-the-badge&logoColor=ff6e00)
-![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=00ff9f)
-![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285f4)
-
-**Robotics & Vision**
-![ROS2](https://img.shields.io/badge/ROS2-0d1117?style=for-the-badge&logoColor=00d4ff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
-![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=76b900)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5c3ee8)
-![YOLO](https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logoColor=ff4500)
-
-**ML & Research**
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4dabcf)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626)
-
-**Systems & Web**
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ff4500)
-![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed)
-
-**Research Domains**
-![Conformal Prediction](https://img.shields.io/badge/Conformal%20Prediction-003d1a?style=for-the-badge)
-![Physics-Informed NNs](https://img.shields.io/badge/Physics--Informed%20NNs-003d1a?style=for-the-badge)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-001a3d?style=for-the-badge)
-![Autonomous Navigation](https://img.shields.io/badge/Autonomous%20Navigation-1a1a00?style=for-the-badge)
+<table>
+  <tr>
+    <td align="right"><b>AI Agents & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9f"/>
+      <img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=00d4ff"/>
+      <img src="https://img.shields.io/badge/vLLM-0d1117?style=for-the-badge&logoColor=ff6e00"/>
+      <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=00ff9f"/>
+      <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285f4"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Robotics & Vision</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ROS2-0d1117?style=for-the-badge&logoColor=00d4ff"/>
+      <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00d4ff"/>
+      <img src="https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=76b900"/>
+      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5c3ee8"/>
+      <img src="https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logoColor=ff4500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>ML & Research</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c"/>
+      <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f7931e"/>
+      <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4dabcf"/>
+      <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Systems & Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ff4500"/>
+      <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=007acc"/>
+      <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb"/>
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Research Domains</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Conformal%20Prediction-003d1a?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Physics--Informed%20NNs-003d1a?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-001a3d?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Autonomous%20Navigation-1a1a00?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## `$ git log --graph --all`
+## `$ pokédex --stats`
 
 <div align="center">
 
@@ -122,6 +116,6 @@ $ whoami
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff9f,100:0d0221&height=140&section=footer&animation=fadeIn"/>
 
-*`SIGNAL TERMINATED — systems nominal`*
+*`Snorlax used REST. It's recovering HP... but the agents are still running.`*
 
 </div>
