@@ -108,9 +108,7 @@
 
 <img src="https://streak-stats.demolab.com?user=AdityaKaleeswarGK&background=0F380F&border=9BBC0F&stroke=9BBC0F&ring=9BBC0F&fire=9BBC0F&currStreakLabel=9BBC0F&sideLabels=8BAC0F&dates=306230&sideNums=9BBC0F&currStreakNum=9BBC0F&hide_border=false"/>
 
-<br/><br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKaleeswarGK&bg_color=0F380F&color=9BBC0F&line=9BBC0F&point=9BBC0F&area=true&area_color=306230&hide_border=false&border_color=9BBC0F&title_color=9BBC0F&custom_title=Aditya's%20Game%20Boy%20Contribution%20Log"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKaleeswarGK&bg_color=0F380F&color=9BBC0F&line=9BBC0F&point=9BBC0F&area=true&area_color=306230&hide_border=false&border_color=9BBC0F&title_color=9BBC0F&radius=0&custom_title=Aditya's%20Game%20Boy%20Contribution%20Log"/>
 
 </div>
 
