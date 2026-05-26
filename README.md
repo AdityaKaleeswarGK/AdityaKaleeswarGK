@@ -105,9 +105,3 @@
 ```console
 ❯ exit 0
 ```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=99999999&repeat=false&color=F5E6C8&width=820&height=38&lines=%23+Engineering+intelligent+systems+%C2%B7+Always+learning+%C2%B7+Always+shipping."/>
-
-</div>
