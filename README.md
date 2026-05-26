@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=1&pause=99999999&repeat=false&color=5B8BA0&width=900&height=28&lines=%23+adityagk+%E2%80%94+AI%2FML+Engineer+%C2%B7+Robotics+Research+%C2%B7+Autonomous+Systems"/>
 
 ```console
-❯ ls ~/snorlax/
+❯ ls ~/routine/
 ```
 
 <div align="center">
