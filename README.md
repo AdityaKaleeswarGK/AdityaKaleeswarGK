@@ -5,8 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=1&pause=99999999&repeat=false&color=5B8BA0&width=900&height=28&lines=%23+adityagk+%E2%80%94+AI%2FML+Engineer+%C2%B7+Robotics+Research+%C2%B7+Autonomous+Systems"/>
 
 ```console
-❯ ls ~/snorlax/
+╭┄ ❯ ls ~/snorlax/ ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
 ```
+
+<div align="center">
 
 <table>
   <tr>
@@ -18,16 +20,32 @@
   </tr>
 </table>
 
+</div>
+
 ```console
-❯ cat ~/contact.txt
+╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
 ```
+
+```console
+╭┄ ❯ cat ~/contact.txt ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+```
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/email-adityakaleeswargk04%40gmail.com-F5E6C8?style=flat-square&logo=gmail&logoColor=F5E6C8&labelColor=2C5F7C&color=0F1419)](mailto:adityakaleeswargk04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-aditya--kaleeswar-F5E6C8?style=flat-square&logo=linkedin&logoColor=F5E6C8&labelColor=4A7C8C&color=0F1419)](https://linkedin.com/in/aditya-kaleeswar)
 
+</div>
+
 ```console
-❯ ./stack.sh --tree
+╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
 ```
+
+```console
+╭┄ ❯ ./stack.sh --tree ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+```
+
+<div align="center">
 
 <table>
   <tr>
@@ -80,8 +98,14 @@
   </tr>
 </table>
 
+</div>
+
 ```console
-❯ git activity --user adityagk
+╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
+```
+
+```console
+╭┄ ❯ git activity --user adityagk ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
 ```
 
 <div align="center">
@@ -91,7 +115,19 @@
 </div>
 
 ```console
-❯ exit 0
+╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
 ```
 
+```console
+╭┄ ❯ exit 0 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+```
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=99999999&repeat=false&color=F5E6C8&width=820&height=38&lines=%23+Engineering+intelligent+systems+%C2%B7+Always+learning+%C2%B7+Always+shipping."/>
+
+</div>
+
+```console
+╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
+```
