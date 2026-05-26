@@ -1,11 +1,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=99999999&repeat=false&color=4A7C8C&width=900&height=30&lines=%E2%9D%AF+./adityagk+--init"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=1500&pause=99999999&repeat=false&color=F5E6C8&width=900&height=60&lines=Aditya+Kaleeswar"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=1500&pause=99999999&repeat=false&color=F5E6C8&width=900&height=60&lines=Aditya+Kaleeswar+G+K"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=1&pause=99999999&repeat=false&color=5B8BA0&width=900&height=28&lines=%23+adityagk+%E2%80%94+AI%2FML+Engineer+%C2%B7+Robotics+Research+%C2%B7+Autonomous+Systems"/>
 
 ```console
-╭┄ ❯ ls ~/snorlax/ ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+❯ ls ~/snorlax/
 ```
 
 <div align="center">
@@ -23,11 +23,7 @@
 </div>
 
 ```console
-╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
-```
-
-```console
-╭┄ ❯ cat ~/contact.txt ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+❯ cat ~/contact.txt
 ```
 
 <div align="center">
@@ -38,11 +34,7 @@
 </div>
 
 ```console
-╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
-```
-
-```console
-╭┄ ❯ ./stack.sh --tree ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+❯ ./stack.sh --tree
 ```
 
 <div align="center">
@@ -101,11 +93,7 @@
 </div>
 
 ```console
-╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
-```
-
-```console
-╭┄ ❯ git activity --user adityagk ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+❯ git activity --user adityagk
 ```
 
 <div align="center">
@@ -115,11 +103,7 @@
 </div>
 
 ```console
-╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
-```
-
-```console
-╭┄ ❯ exit 0 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╮
+❯ exit 0
 ```
 
 <div align="center">
@@ -127,7 +111,3 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=99999999&repeat=false&color=F5E6C8&width=820&height=38&lines=%23+Engineering+intelligent+systems+%C2%B7+Always+learning+%C2%B7+Always+shipping."/>
 
 </div>
-
-```console
-╰┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╯
-```
