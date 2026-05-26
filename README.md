@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,25:2E91B8,50:F5E6C8,75:2E91B8,100:1B3A5C&height=160&section=header&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=99999999&repeat=false&color=4A7C8C&center=true&vCenter=true&width=900&height=40&lines=%E2%9D%AF+./adityagk+--init"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=1&pause=99999999&repeat=false&color=F5E6C8&center=true&vCenter=true&width=900&height=70&lines=ADITYA+KALEESWAR"/>
 
