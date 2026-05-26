@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1419,30:2C5F7C,70:4A7C8C,100:0F1419&height=140&section=header&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,25:2E91B8,50:F5E6C8,75:2E91B8,100:1B3A5C&height=160&section=header&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=1&pause=99999999&repeat=false&color=F5E6C8&center=true&vCenter=true&width=900&height=70&lines=ADITYA+KALEESWAR"/>
 
