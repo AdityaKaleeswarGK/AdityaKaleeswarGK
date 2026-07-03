@@ -43,6 +43,3 @@
 
 </div>
 
-```console
-❯ exit 0
-```
